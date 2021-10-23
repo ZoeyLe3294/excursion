@@ -9,6 +9,7 @@ a{
     color: aquamarine;
     font-size: 16px;
 }
+<<<<<<< HEAD
 h2{
     font-family: Verdana;
     font-weight: 300;
@@ -20,3 +21,9 @@ p{
     font-size: 21px;
     color: gray;
 }
+=======
+div.main{
+    background-color: black;
+    text-align: center
+}
+>>>>>>> 25e8689d789290ca42db8f3910b8b62c6589bcde
